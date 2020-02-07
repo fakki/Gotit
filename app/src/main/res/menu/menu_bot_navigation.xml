@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+    <item android:id="@+id/book_item"
+          android:icon="@mipmap/book"
+          android:title="@string/book"
+          android:enabled="true"/>
+    <item android:id="@+id/movie_item"
+          android:icon="@mipmap/movie"
+          android:title="@string/movie"
+          android:enabled="true"/>
+    <item android:id="@+id/music_item"
+          android:icon="@mipmap/music"
+          android:title="@string/music"
+          android:enabled="true"/>
+    <item android:id="@+id/my_item"
+          android:icon="@mipmap/my"
+          android:title="@string/my"
+          android:enabled="true"/>
+
+</menu>

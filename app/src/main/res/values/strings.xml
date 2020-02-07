@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gotit</string>
+    <string name="book">读书</string>
+    <string name="movie">电影</string>
+    <string name="music">音乐</string>
+    <string name="my">我的</string>
+    <string name="book_express">新书速递</string>
+    <string name="book_literature">文学</string>
+    <string name="book_culture">文化</string>
+    <string name="book_technique">科技</string>
+    <string name="book_other">其他</string>
+    <string name="book_publish_info_test">[日] 东野圭吾 / 李盈春 / 南海出版公司 / 2014-5 / 39.50元</string>
+    <string name="book_introduction_test">现代人内心流失的东西，这家杂货店能帮你找回—— 僻静的街道旁有一家杂货店，只要写下烦恼投进卷帘门的投信口，第二天就会在店后的牛奶箱里得到回答。 因男友身患绝症，年轻女孩静子在爱情与梦想间徘徊；克郎为了音乐梦想离家漂泊，却在现实中寸步难行；少年浩介面临家庭巨变，挣扎在亲情与未来的迷茫中……</string>
+    <string name="book_title_test">解忧杂货店</string>
+    <string name="null_introduction">暂无简介</string>
+    <string name="search_title">搜索</string>
+    <string name="add_column">添加栏目</string>
+    <string name="not_finished">当前页面此功能未实现</string>
+    <string name="label_select">选择标签</string>
+    <string name="confirm">完成</string>
+    <string name="search_activity_title">搜索结果</string>
+</resources>

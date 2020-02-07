@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+    <android.support.v7.widget.Toolbar android:id="@+id/change_columns_ToolBar"
+                                       android:layout_width="match_parent"
+                                       android:layout_height="wrap_content"
+                                       android:background="@color/colorDeepGrey">
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_horizontal"
+                  android:text="@string/label_select"/>
+
+    </android.support.v7.widget.Toolbar>
+    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/label_GridLayout"
+                android:columnCount="3"
+                android:rowCount="9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+    </GridLayout>
+</LinearLayout>
